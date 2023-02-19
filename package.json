@@ -1,13 +1,17 @@
 {
   "name": "eslint-config-chamick7",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "eslint config for javascript/typescript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chamick7/eslint-config-chamick7.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "chamick7",
-  "license": "ISC",
+  "license": "MIT",
   "files": [
     "index.js",
     "lib"
