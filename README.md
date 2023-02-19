@@ -13,3 +13,5 @@ npm install --dev eslint-config-chamick7
 ```sh
 yarn add -D eslint-config-chamick7
 ```
+
+## How to use
