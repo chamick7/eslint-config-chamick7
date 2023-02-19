@@ -15,3 +15,12 @@ yarn add -D eslint-config-chamick7
 ```
 
 ## How to use
+
+- Create `.eslintrc` in root directory`
+- implement `extends`
+
+```
+{
+  "extends": ["eslint-config-chamick7"]
+}
+```
