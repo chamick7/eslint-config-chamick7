@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-chamick7",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "eslint config for javascript/typescript",
   "repository": {
     "type": "git",
